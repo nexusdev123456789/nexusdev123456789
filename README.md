@@ -11,7 +11,7 @@
 ### 🚀 About Me
 * 🌱 I’m currently learning advanced **Full-Stack Web Development**.
 * ⚡ Fun fact: I turn coffee and bugs into clean code!
-* 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+* 📫 How to reach me: [your-devspacesatya@gmail.com](mailto:your-email@example.com)
 
 ---
 
